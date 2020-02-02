@@ -38,7 +38,7 @@ Projeto desenvolvido utilizando arquitetura DDD **(Domain-Driven-Design)** junta
 
 - Pronto! todos os endpoints passarão a usar o token de Autenticação.
 
-> Rodando os Testes
+> ## Rodando os Testes
 - No visual studio clique em Test -> Rull All Tests
 
 
