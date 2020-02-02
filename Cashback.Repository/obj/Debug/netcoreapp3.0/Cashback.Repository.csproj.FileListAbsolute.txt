@@ -1,0 +1,15 @@
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Domain.dll
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Infra.dll
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.AssemblyInfo.cs
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Repository.deps.json
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Repository.dll
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Repository.pdb
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Domain.pdb
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Infra.pdb
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.csproj.CopyComplete
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.dll
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\obj\Debug\netcoreapp3.0\Cashback.Repository.pdb
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Repository.runtimeconfig.json
+C:\Users\victor\source\repos\Cashback\Cashback.Repository\bin\Debug\netcoreapp3.0\Cashback.Repository.runtimeconfig.dev.json

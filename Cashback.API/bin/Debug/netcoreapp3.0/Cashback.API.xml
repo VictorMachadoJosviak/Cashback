@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cashback.API</name>
+    </assembly>
+    <members>
+        <member name="M:Cashback.API.Controllers.LoginController.Login(Cashback.Infra.DTO.Authentication.CredentialsDTO)">
+            <summary>
+            Efetua o login na aplicação gerando um Token
+            </summary>
+            <param name="credentials"></param>
+            <returns></returns>
+            <response code="401">Credenciais inválidas</response>
+        </member>
+        <member name="M:Cashback.API.Controllers.ResellerController.CreateReseller(Cashback.Infra.DTO.Reseller.CreateResellerDTO)">
+            <summary>
+            Cadastra um revendedor
+            </summary>
+            <param name="reseller"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Cashback.API.Controllers.SaleController.List">
+            <summary>
+            Lista todas as vendas
+            </summary>
+            <returns></returns>
+            <response code="401">Token inválido</response>
+            <response code="400">Requisição inválida</response>
+        </member>
+        <member name="M:Cashback.API.Controllers.SaleController.GetCashback(System.String)">
+            <summary>
+            Efetua uma busca na api externa pelo cpf
+            </summary>
+            <param name="cpf"></param>
+            <returns></returns>
+            <response code="401">Token inválido</response>
+            <response code="400">Requisição inválida</response>
+        </member>
+        <member name="M:Cashback.API.Controllers.SaleController.Create(Cashback.Infra.DTO.Sale.CreateSaleDTO)">
+            <summary>
+            Cadastra uma venda
+            </summary>
+            <param name="sale"></param>
+            <returns></returns>
+            <response code="401">Token inválido</response>
+            <response code="400">Requisição inválida</response>
+        </member>
+        <member name="M:Cashback.API.Controllers.SaleController.Update(Cashback.Infra.DTO.Sale.UpdateSaleDTO)">
+            <summary>
+            Atualiza as vendas (apenas em validação)
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+            <response code="401">Token inválido</response>
+            <response code="400">Requisição inválida</response>
+        </member>
+        <member name="M:Cashback.API.Controllers.SaleController.DeleteSale(System.Guid)">
+            <summary>
+            Excuir vendas (apenas em validação)
+            </summary>
+            <param name="idSale"></param>
+            <returns></returns>
+            <response code="401">Token inválido</response>
+            <response code="400">Requisição inválida</response>
+        </member>
+    </members>
+</doc>
