@@ -25,8 +25,8 @@ namespace Cashback.Integration.Scenarios
         {
             var credentials = new CredentialsDTO
             {
-                Email = "a@a.com",
-                Password = "123"
+                Email = "cashback@boticario.com",
+                Password = "123456"
             };
 
             var json = JsonConvert.SerializeObject(credentials);

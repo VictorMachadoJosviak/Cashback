@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj": {}
+    "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj": {
+    "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj",
         "projectName": "Cashback.Domain",
-        "projectPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj",
+        "projectPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\obj\\",
+        "outputPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj": {
+    "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj",
         "projectName": "Cashback.Infra",
-        "projectPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj",
+        "projectPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra\\Cashback.Infra.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra\\obj\\",
+        "outputPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -124,8 +124,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj": {
-                "projectPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj"
+              "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj": {
+                "projectPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain\\Cashback.Domain.csproj"
               }
             }
           }

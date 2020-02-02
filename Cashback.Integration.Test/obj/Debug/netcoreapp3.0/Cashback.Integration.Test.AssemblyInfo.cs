@@ -11,14 +11,14 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.API", "Cashback.API.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Domain", "Cashback.Domain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Infra", "Cashback.Infra.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.IoC", "Cashback.IoC.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Mapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Mapper", "Cashback.Mapper.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Repository", "Cashback.Repository.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Services", "Cashback.Services.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Validators, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Validators", "Cashback.Validators.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.API", "Cashback.API.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Domain", "Cashback.Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Infra", "Cashback.Infra.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.IoC", "Cashback.IoC.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Mapper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Mapper", "Cashback.Mapper.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Repository", "Cashback.Repository.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Services", "Cashback.Services.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Cashback.Validators, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Validators", "Cashback.Validators.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cashback.Integration.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
