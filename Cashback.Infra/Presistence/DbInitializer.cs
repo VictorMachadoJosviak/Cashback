@@ -45,7 +45,7 @@ namespace Cashback.Infra.Presistence
                 db.Resellers.Add(new Reseller
                 {
                     CPF = "15350946056",
-                    Email = "",
+                    Email = "cashback@boticario.com",
                     Name = "Boticario",
                     LastName = "Perfumes",
                     Password = "123456".ToHash()
