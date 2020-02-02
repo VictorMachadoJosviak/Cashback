@@ -42,7 +42,7 @@ namespace Cashback.Integration.Scenarios
 
         [Fact]
         public async Task Login_Post_ReturnsUnauthorized()
-        {
+        {  
             var credentials = new CredentialsDTO
             {
                 Email = "z@z.com",
