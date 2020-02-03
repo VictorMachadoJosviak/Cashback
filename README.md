@@ -1,7 +1,7 @@
 # Cashback
 
 > ### Api Contruida com .Net Core 3.0
-> Caso não possua instalado clique <a href="https://dotnet.microsoft.com/download/dotnet-core/3.0">aqui</a> para baixar. 
+> Caso não possua instalado clique <a href="https://dotnet.microsoft.com/download/dotnet-core/3.0">aqui</a> para baixar (Utilizar a versão mais recente do Visual studio). 
 
 ## Descrição
 
@@ -12,7 +12,7 @@ Projeto desenvolvido utilizando arquitetura DDD **(Domain-Driven-Design)** junta
 ## Rodar o projeto
 
 - Executar o comando `update-database` que ele gerará o banco a partir das migrations já criadas no projeto.
-- Após executar o comando basta rodar normalmente o projeto onde ele já inicializará com a rota apontando para o Swagger
+- Após executar o comando basta rodar normalmente o projeto onde ele já inicializará com a rota apontando para o Swagger `/swagger`
 
 ## Utilizar o Swagger
 
@@ -39,7 +39,7 @@ Projeto desenvolvido utilizando arquitetura DDD **(Domain-Driven-Design)** junta
 - Pronto! todos os endpoints passarão a usar o token de Autenticação.
 
 > ## Rodando os Testes
-- No visual studio clique em Test -> Rull All Tests
+- No visual studio clique em Test -> Run All Tests
 
 
 
