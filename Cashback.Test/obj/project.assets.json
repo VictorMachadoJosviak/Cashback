@@ -8778,11 +8778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Test\\Cashback.Test.csproj",
+      "projectUniqueName": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Test\\Cashback.Test.csproj",
       "projectName": "Cashback.Test",
-      "projectPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Test\\Cashback.Test.csproj",
+      "projectPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Test\\Cashback.Test.csproj",
       "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.Test\\obj\\",
+      "outputPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8803,8 +8803,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.API\\Cashback.API.csproj": {
-              "projectPath": "C:\\Users\\victor\\source\\repos\\Cashback\\Cashback.API\\Cashback.API.csproj"
+            "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.API\\Cashback.API.csproj": {
+              "projectPath": "C:\\Users\\victor\\Desktop\\Cashback\\Cashback.API\\Cashback.API.csproj"
             }
           }
         }
