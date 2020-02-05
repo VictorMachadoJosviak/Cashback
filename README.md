@@ -11,7 +11,7 @@ Projeto desenvolvido utilizando arquitetura DDD **(Domain-Driven-Design)** junta
 
 ## Rodar o projeto
 
-- Executar o comando `update-database` que ele gerará o banco a partir das migrations já criadas no projeto.
+- Selecionaro o projeto .Infra, Executar o comando `update-database` que ele gerará o banco a partir das migrations já criadas no projeto.
 - Após executar o comando basta rodar normalmente o projeto onde ele já inicializará com a rota apontando para o Swagger `/swagger`
 
 ## Utilizar o Swagger
